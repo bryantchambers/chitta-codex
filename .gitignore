@@ -1,0 +1,5 @@
+.bootstrap-state.json
+repos/
+backups/
+__pycache__/
+*.pyc

@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repos": [
+    {
+      "name": "cc-soul",
+      "url": "https://github.com/genomewalker/cc-soul.git",
+      "ref": "abd88076378999bea781b9d71cd5a773a2b9e3ea",
+      "path": "repos/cc-soul"
+    },
+    {
+      "name": "chitta-bridge",
+      "url": "https://github.com/genomewalker/chitta-bridge.git",
+      "ref": "616fc0adb6603b689e1fd6111832d46284467038",
+      "path": "repos/chitta-bridge"
+    },
+    {
+      "name": "zellij-mcp",
+      "url": "https://github.com/genomewalker/zellij-mcp.git",
+      "ref": "c62c51dc338a4392e076ac96a98f6e8bdcee6fca",
+      "path": "repos/zellij-mcp"
+    }
+  ],
+  "codex": {
+    "startup_timeout_sec": 120,
+    "zellij_server": "/home/gfx654/.local/share/zellij-mcp/server.py"
+  }
+}
