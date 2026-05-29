@@ -3,14 +3,14 @@
   "repos": [
     {
       "name": "cc-soul",
-      "url": "https://github.com/genomewalker/cc-soul.git",
-      "ref": "abd88076378999bea781b9d71cd5a773a2b9e3ea",
+      "url": "https://github.com/bryantchambers/cc-soul.git",
+      "ref": "9911bd436c019783beffc0e37bf252214dc8dbd1",
       "path": "repos/cc-soul"
     },
     {
       "name": "chitta-bridge",
-      "url": "https://github.com/genomewalker/chitta-bridge.git",
-      "ref": "616fc0adb6603b689e1fd6111832d46284467038",
+      "url": "https://github.com/bryantchambers/chitta-bridge.git",
+      "ref": "17fa57f06cc6e0f18bb8ee29b071d8e07398c66a",
       "path": "repos/chitta-bridge"
     },
     {

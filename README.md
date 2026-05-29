@@ -13,8 +13,8 @@ This repo does not contain the application code. It only:
 
 ## Pinned inputs
 
-- `cc-soul` @ `abd88076378999bea781b9d71cd5a773a2b9e3ea`
-- `chitta-bridge` @ `616fc0adb6603b689e1fd6111832d46284467038`
+- `cc-soul` @ `9911bd436c019783beffc0e37bf252214dc8dbd1`
+- `chitta-bridge` @ `17fa57f06cc6e0f18bb8ee29b071d8e07398c66a`
 - `zellij-mcp` @ `c62c51dc338a4392e076ac96a98f6e8bdcee6fca`
 
 ## Entry points
@@ -38,4 +38,3 @@ This repo does not contain the application code. It only:
 - `zellij-mcp` is registered in Codex with an explicit Python interpreter and a startup timeout.
 - `cc-soul` and `chitta-bridge` are still installed through their existing repo installers.
 - The bootstrap wrapper requires a usable Python 3.11+, or Python 3.10 with `tomli` available.
-
